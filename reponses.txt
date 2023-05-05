@@ -1,4 +1,4 @@
-a-git pull permet de faire une mise a jour du depot  tandisque git fectch
+a-git pull permet de faire une mise a jour du depot  tandisque git fectch recupere les derniere modiications
 b-la commande git resert 
-c-on supprime une branche en utulisant la commande git branch -b "nom_branche"
+c-on supprime une branche en utulisant la commande git branch -d "nom_branche"
 d- en utulisant la commande git log "nom_fichier"
